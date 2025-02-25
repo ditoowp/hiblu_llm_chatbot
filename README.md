@@ -1,4 +1,6 @@
-<center><img src="https://imgtr.ee/images/2024/07/03/9eea693c3d3aee90f0ea2041012aa6a1.png" alt="9eea693c3d3aee90f0ea2041012aa6a1.png" border="0" /></center>
+<div style="text-align: center;">
+    <img src="https://i.postimg.cc/SKdt9NKD/HiBlu.png" alt="HiBlu.jpeg">
+</div>
 
 # HiBlu: LLM Chatbot for Blu (BCA Digital)
 
@@ -35,19 +37,26 @@ Data referensi jawaban pertanyaan yang sering diajukan adalah berdasarkan hasil 
 
 ## RAG LLM Workflow
 
-<center><img src="https://imgtr.ee/images/2024/07/04/8a526fd5b3fbff55170ff8138ad658d9.png" alt="8a526fd5b3fbff55170ff8138ad658d9.png" border="0" /></center>
+<div style="text-align: center;">
+    <img src="https://i.postimg.cc/pVmRP30g/RAG-LLM.png" alt="RAG LLM Workflow">
+</div>
 
 ---
 
 ## Fine Tuning LLM Workflow
 
-<center><img src="https://imgtr.ee/images/2024/07/04/cd68f1b08bdac93e13e63ea234af44e0.png" alt="cd68f1b08bdac93e13e63ea234af44e0.png" border="0" /></center>
+<div style="text-align: center;">
+    <img src="https://i.postimg.cc/4xQT8Gdh/Fine-Tune-LLM.png" alt="Fine Tuning LLM Workflow">
+</div>
 
 ---
 
 ## RAFT LLM Workflow
 
-<center><img src="https://imgtr.ee/images/2024/07/04/b4d1f6353981668b1938edc7dbf3dff1.png" alt="b4d1f6353981668b1938edc7dbf3dff1.png" border="0" /></center>
+<div style="text-align: center;">
+    <img src="https://i.postimg.cc/4xQT8Gdh/Fine-Tune-LLM.png" alt="RAFT LLM Workflow">
+</div>
+
 
 ---
 
